@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hi there, I’m Abdelrahman Mahmoud
 
-<!--
-**Abdelrahman-Mahmoud-Dev/Abdelrahman-Mahmoud-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m a front-end developer
 
-Here are some ideas to get you started:
+### Contact with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" style="margin : 0 5px" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/abdelrahman-mahmoud-b18720201/)
+[<img align="left" style="margin : 0 5px" alt="Gamil" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />](abdelrahman.mahmoudd2@gmail.com)
+[<img align="left" style="margin :0 5px" alt="FaceBook" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" />](https://www.facebook.com/Abdelrahman.Mahmoud404/)
+
+<br />
+
+### Languages and Tools:
+
+- HMTL
+- CSS
+- Sass
+- CSS Framework (bootstrap & bulma & materialize)
+- Javascript
+- ES6
+- Ajax / Deal with API's
+- jQuery
+- Vue 2 / Vue 3 / Vuex
+- Vue UI Libraries (Bootstrap-Vue & Vuetify)
+- React.js
+- Git / Github
+- Package Manager (NPM & Yarn)
+- Firebase
